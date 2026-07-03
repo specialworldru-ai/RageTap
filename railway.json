@@ -1,0 +1,8 @@
+{
+  "build": {
+    "rootDirectory": "backend"
+  },
+  "deploy": {
+    "rootDirectory": "backend"
+  }
+}
